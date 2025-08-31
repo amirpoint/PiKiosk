@@ -1,5 +1,9 @@
 # Raspberry Pi Multi-Kiosk Setup with Portrait Mode
 
+<p align="center">
+  <img src="assests/photo_1.jpg" alt="manager">
+</p>
+
 This project provides a Bash script (`portrait_kiosk_setup_v2.sh`) to configure a Raspberry Pi as a multi-kiosk system, designed to display web dashboards (e.g., Uptime Kuma, Kibana, Grafana) in a browser with support for persistent display rotation, particularly optimized for portrait mode. The script sets up a robust kiosk environment with an interactive manager for switching between dashboards and controlling screen rotation using `wlr-randr`.
 
 ## Features
